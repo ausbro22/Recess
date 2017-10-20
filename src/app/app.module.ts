@@ -6,6 +6,8 @@ import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 import { StartComponent } from './components/start/start.component';
 import { QueueComponent } from './components/queue/queue.component';
+import { FrontComponent } from './components/front/front.component';
+import { PlaygroundComponent } from './components/playground/playground.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +15,9 @@ import { QueueComponent } from './components/queue/queue.component';
     HomeComponent,
     LoginComponent,
     StartComponent,
-    QueueComponent
+    QueueComponent,
+    FrontComponent,
+    PlaygroundComponent
   ],
   imports: [
     BrowserModule

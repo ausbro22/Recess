@@ -1,0 +1,31 @@
+body {
+    Background-color: #2998E4;
+   }
+     .red-text {
+       color: red;
+     }
+     h1 {
+       font-size: 30px;
+       font-family: Lobster, Monospace;
+     }
+   
+     p {
+       font-size: 16px;
+       font-family: Monospace;
+     }
+   
+     .thick-red-border {
+       border-color: red;
+       border-width: 5px;
+       border-style: solid;
+     }
+   
+     .larger-image {
+       width: 100px;
+     }
+     .button-yellow-text {
+      font-size: 16px;
+      Font-family: Monospace;
+      Color: yellow;
+   }
+   
