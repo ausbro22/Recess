@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 import { StartComponent } from './components/start/start.component';
+import { QueueComponent } from './components/queue/queue.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     LoginComponent,
-    StartComponent
+    StartComponent,
+    QueueComponent
   ],
   imports: [
     BrowserModule
