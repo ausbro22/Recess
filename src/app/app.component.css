@@ -1,7 +1,10 @@
 .container{
-    width: 480px;
+    width: 480px !important;
+    /* border-style: solid;
+    border-width: 2px;
+    border-color: black; */
 }
-.roster{
+.rosterBar{
     background-color: gray;
     border: none;
     color: white;
@@ -13,6 +16,7 @@
     margin: 4px 2px;
     position: relative;
     width: 100%;
+    align-content: center;
 }
 
 .app{
@@ -30,11 +34,12 @@
 .gameContainer{
     position: fixed;
     background-color: black;
-    width: 100%;
+    width: 480px !important;
     height: 500px;
+    overflow: hidden;
 }
 
 .startButton {
     text-align: center;
-    
+    margin-bottom: 20px;
 }
