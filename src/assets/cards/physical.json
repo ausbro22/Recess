@@ -2,10 +2,246 @@
     {
     "player": "",
     "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Eat three shakes of salt"
+    }, {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Hold a plank for 45 seconds while being tickled. Dont let those knees touch."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Eat toothpaste then drink 2 shots of juice"
+    },
+    {
+        "player": "",
+        "time": 3,
+        "value": 3,
+        "veto": false,
+        "info": "Switch two players shirts only using your mouth. So bite down and pull up. No use of hands aloud and no helping by other players. can ask the two players to adjust positions"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Let each player draw a penis on your face with makeup, can't wash off for the rest of the game."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Let every player pull out one body hair /n bonus point if you eat one"
+        // add bonus point
+    },
+    {
+        "player": "",
+        "time": 3,
+        "value": 3,
+        "veto": false,
+        "info": "Eat a spoonful of coffee grounds, dont have to swallow"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Take a purple nurple for 5 seconds, pincher gets to count"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Get your hair pulled for 20 seconds"
+        // build a seperate timer
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Play with your nipples for 30 seconds and let other players record it."
+        // build a seperate timer
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Make your best orgasm moan for 30 seconds."
+        // build a seperate timer
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Take 5 ice cubes down your pants"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Let someone dump a cup full of thier drink down your pants."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Give a lap dance to the person on your right for 1 minute."
+        // build seperate timer
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Take a spanking from 3 different people."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Finish your drink and do 10 burpees (jump up, land on your feet, get down into a push up position, then get pack up again. and that is one."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Hold a lit match for 5 seconds"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Hold a mouth full of water without spitting it out for 40 seconds, while people tell you jokes/ make fun of you."
+        // build in seperate clock 
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Don't blink for 25 seconds."
+        // build in seperat clock
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Take a shot of Ketchup"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Take a hard spanking from a person not playing"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Lick another player's armpit."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Run two laps around the building"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Do 30 squats"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Stand in a half squat until your next turn, Even if the game is paused."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Let the other players position you into a pose and you are now a statute, cannot move a muscle until your next turn."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Lay down on the floor face down and recite the pledge of allegence."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Hold a wall sit for 45 seconds, other players get to tickle you. Don't stand up or fall no matter what."
+        // build a seperate timer
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 3,
+        "veto": false,
+        "info": "Eat 3 nose hairs for another player."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 1,
+        "veto": false,
+        "info": "Shot gun your beer"
+    },
+    {
+            "player": "",
+            "time": "",
+            "value": 5,
+            "veto": false,
+            "info": "Lick your own elbow"
+            },
+            {
+            "player": "",
+            "time": "",
+            "value": 5,
+            "veto": false,
+            "info": "Sniff the player to your right's feet."
+    },
+    {
+    "player": "",
+    "time": "",
+    "value": 5,
+    "veto": false,
+    "info": "Lick your own elbow"
+    },
+    {
+    "player": "",
+    "time": "",
     "value": 0,
     "veto": false,
-    "info": ""
-    }, {
-
+    "info": "Spin in a circle five times, once complete catch 3 objects lobbed to you by other players."
     }
-]
+    ]
