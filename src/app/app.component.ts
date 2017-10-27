@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Recess';
+
+  onClick() {
+    var popup = document.getElementById('popup')
+    popup.style.display = "none";
+  };
 }

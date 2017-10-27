@@ -1,0 +1,53 @@
+body{
+    Background-color: #2998E4;
+  }
+  .injected-text {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Lobster, Monospace;
+  }
+  .box {
+  } 
+ p{
+    font-size: 12px;
+  }
+  .deck-box {
+    background-color: red;
+    height: 380px;
+    width: 240px;
+    Bottom:320px;;
+    margin-left: 18px;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+  }
+.top-box {
+   top: 0;
+}
+.cardTable {
+    width: 240px;
+    height: 290px;
+}
+.card {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.card:hover {
+    background: #00bd58;
+    text-decoration: none;
+  }
+
+  cardTable {
+    width: 100%;
+    height: 100%;
+}

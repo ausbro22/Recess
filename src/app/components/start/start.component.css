@@ -1,5 +1,8 @@
-body {
+  .startPage {
     Background-color: #2998E4;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
    }
      .red-text {
        color: red;
@@ -27,5 +30,9 @@ body {
       font-size: 16px;
       Font-family: Monospace;
       Color: yellow;
+   }
+
+   .submit{
+     margin-bottom: 20px;
    }
    

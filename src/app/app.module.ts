@@ -19,6 +19,8 @@ import { FrontComponent } from './components/front/front.component';
 import { PlaygroundComponent } from './components/playground/playground.component'
 import { GameComponent } from './components/game/game.component';
 import { PlayerComponent } from './components/player/player.component';
+import { ProfileComponent } from './components/profile/profile.component';
+import { CardComponent } from './components/card/card.component';
 ;
 
 const appRoutes: Routes = [
@@ -41,7 +43,9 @@ const appRoutes: Routes = [
     FrontComponent,
     PlaygroundComponent,
     GameComponent,
-    PlayerComponent
+    PlayerComponent,
+    ProfileComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule

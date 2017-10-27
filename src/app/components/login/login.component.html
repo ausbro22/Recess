@@ -1,30 +1,21 @@
-<div class="container-fluid">
-  
-    <h1 class="red-text text-center">HERE WE GO AGAIN… RECESS</h1>
-  
-    <!-- <a href="#"><img class="lagerer-image thick-red-border" src=" https://outlierbabe.files.wordpress.com/2014/05/fat-boy-winking-retro-cartoon.jpg” alt="A chubby kid"></a> -->
-  
-    <div>
-        <form action= "/submit username">
-          <input type="text" placeholder="Username">  
-        </form>
-        <form action= "/submit password">
-          <input type="text" placeholder="Password">  
-        </form>
-          <button class="btn btn-info btn-block button-yellow-text">
-            Sign in
-          </button>
-          <button class="btn btn-block btn-primary button-yellow-text">
-            Terms and Conditions
-          </button>
-          <h1> Karma Warning </h1>
-            <p>
-              By signing in you agree to all RaM’s terms and conditions.
-               Remember participation is completely voluntary and the score 
-               is arbitrary. So do not participate or let others pressure you 
-               into an activity that is harmful, dangerous, immoral or illegal.
-            </p> 
+  <div class="modal-header">
+      <h1>Edit</h1>
     </div>
-    
-  </div>
-  
+    <div class="modal-body">
+        <form method="post" action="/action_page_post.php">
+          <div>
+            <h3>Login information</h3>
+            <label for="usrnm" class="ui-hidden-accessible">Username:</label>
+            <input type="text" name="user" id="usrnm" placeholder="Username">
+            <label for="pswd" class="ui-hidden-accessible">Password:</label>
+            <input type="password" name="passw" id="pswd" placeholder="Password">
+            <label for="log">Keep me logged in</label>
+            <input type="checkbox" name="login" id="log" value="1" data-mini="true">
+            <input type="submit" data-inline="true" value="Log in">
+          </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+      <button (click)="save()" class="btn btn-primary" >Save</button>
+      <button (click)="close()" class="btn" >close</button>
+    </div>
