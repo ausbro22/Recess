@@ -1,11 +1,60 @@
-[
+ {
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "Use a seductive voice to tell another player about your turn offs.",
+        "Reward": ""
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "Let another player rub theeir arm pit on your face.",
+        "Reward": ""
+    },
+    {
+        {
+            
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "Hold a half pushup for 45 seconds",
+        "Reward": ""
+        // build seperate timer
+    },
     {
     "player": "",
     "time": "",
     "value": 0,
     "veto": false,
-    "info": ""
-    }, {
-
-    }
+    "info": "Get a kiss on the cheek",
+    "Reward": "Get another kiss on the cheek"
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "Survive without laughing 2 minutes of harsh interrogation by other players.",
+        "Reward": ""
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "Give a lap dance from someone of the same gender for 1 minute.",
+        "Reward": ""
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 0,
+        "veto": false,
+        "info": "You eat three tree leaves.",
+        "Reward": ""
+    },
 ]

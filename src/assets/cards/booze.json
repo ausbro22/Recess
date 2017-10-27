@@ -1,9 +1,39 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 9eb389e34880b1e78cc16e3ee4d8b78b41dcb156
 [
     {
     "player": "",
     "time": "",
     "value": 0,
     "veto": false,
+<<<<<<< HEAD
+    "info": "Finish your drink, the person to your left's drink and the person to your  right's drink. Refill all three.",
+    "Reward": ""
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Drink the rest of your drink out of a shoe."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Drink a gulp of a drink off of another person's body."
+        },
+        {
+        "player": "",
+        "time": "",
+        "value": 5,
+        "veto": false,
+        "info": "Take a cup, let everyone dump a sip of their drink into the cup, and add one thing of their choosing.(try to avoid bodily fluids) You have to drink the liquid."
+         },
+=======
     "info": ""
     }, {
     "player": "",
@@ -19,3 +49,4 @@
     "info": ""
     }
 ]
+>>>>>>> 9eb389e34880b1e78cc16e3ee4d8b78b41dcb156

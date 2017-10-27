@@ -2,10 +2,158 @@
     {
     "player": "",
     "time": "",
-    "value": 0,
+    "value": -5,
     "veto": false,
-    "info": ""
+    "info": "Let the other players rub dirt on you."
     }, {
-
+        "player": "",
+        "time": "",
+        "value": i--,
+        "veto": false,
+        "info": "Cluck like a chicken every time someone says your name. Continue this for the rest of the level. -1 point everytime someone catches you slipping."
+        // minus one poine
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Let the other team draw on your face with lipstick. Everyone takes a picture."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Sit without a chair until the round has concluded."
     }
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Pour salt down your pants."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Wash the dishes of where ever you are."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Lick the sole of the person to your right's shoe."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Steal somebody's sock and put it in your mouth."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Take a hand full of grass down your pants."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Go sit in the corner and get taunted until next turn."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": i,
+        "veto": false,
+        "info": "Have to ask permission to do anything. -(1/4) of a point for every time a player catches you slipping."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info": "Ther person to your right gets to decide who bites you. And the person to your left gets to decide where."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -5,
+        "veto": false,
+        "info":  "Take two wet willies from everyone in the room."
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": -3,
+        "veto": false,
+        "info": "Losse 3 points"
+        },
+        {
+            "player": "",
+            "time": "",
+            "value": -5,
+            "veto": false,
+            "info": "Draw dicks all over your own face."  
+        },
+        {
+            "player": "",
+            "time": "",
+            "value": -5,
+            "veto": false,
+            "info": "Call the last person you talked to on speaker phone and convince them you saw an alien just now."
+        },
+        {
+            "player": "",
+            "time": "",
+            "value": -5,
+            "veto": false,
+            "info": "Let another player bite you"
+        },
+        {
+        "player": "",
+        "time": "",
+        "value": -3,
+        "veto": false,
+        "info": "Shave half of one eyebrow off."
+        },
+        {
+            "player": "",
+            "time": "",
+            "value": -5,
+            "veto": false,
+            "info": "Let someone fart on you."
+             },
+             {                    
+                "player": "",
+                "time": "",
+                "value": -5,
+                "veto": false,
+                "info": "Give 5 reasons why people hate you?"
+                 },
+                 {
+                    
+                "player": "",
+                "time": "",
+                "value": 5,
+                "veto": false,
+                "info": ""
+                 },
+                 {
+                    "player": "",
+                    "time": "",
+                    "value": -5,
+                    "veto": false,
+                    "info": "You eat tree leaves",
+                 }
+                ]
+
 ]

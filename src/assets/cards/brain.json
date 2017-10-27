@@ -2,10 +2,265 @@
     {
     "player": "",
     "time": "",
-    "value": 0,
+    "value": 2,
     "veto": false,
-    "info": ""
+    "info": "Who played both Luke Skywalker and the Joker",
+    "answer": "Mark Hamill"
     }, {
-
-    }
+        "player": "",
+        "time": "",
+        "value": 2,
+        "veto": false,
+        "info": "What year was the original IT realeased",
+        "answer": "1987"
+    }, {
+        "player": "",
+        "time": "",
+        "value": 2,
+        "veto": false,
+        "info": "Name the Last 6 presidents of the United States",
+        "answer": ""
+    },
+    {
+        "player": "",
+        "time": "",
+        "value": 2,
+        "veto": false,
+        "info": "Who played both Luke Skywalker and the Joker",
+        "answer": "Mark Hamill"
+    },
+    {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is (1/4) of (1/5) of 100",
+    "answer": "5"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the smartest breed of dog?",
+    "answer": "Border Collie"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Who was the 1985 Super bowl champs?",
+    "answer": "Chicago Bears"
+},
+    {
+        "player": "",
+        "time": "",
+        "value": 2,
+        "veto": false,
+        "info": "Which Supreme Court Case made inter-racial marriage legal?",
+        "answer": "Loving v Virginia"
+},
+{
+        "player": "",
+        "time": "",
+        "value": 2,
+        "veto": false,
+        "info": "What is the pythagorean theorem?",
+        "answer": "a2 + b2 = c2"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Name 8 Biggie Smalls rap songs",
+    "answer": ""
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the smallest breed of cat in the U.S.",
+    "answer": "Munchin Cat"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What did Newy Ma get locked up for?",
+    "answer": "For shooting someone"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the jersey number of a loose head prop in rugby",
+    "answer": "1"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the jersey number of a tight head prop in rugby",
+    "answer": "3"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "In Sex Drive the movie, where were the main characters trekking to?",
+    "answer": "Big Boy"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Finish this lyric /'Hey Dirty'/",
+    "answer": "Baby I got your money"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Who broke Batman's back?",
+    "answer": "Bane"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What really smells like poo?",
+    "answer": "Roses"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Guess what color underwear each player is wearing, if you get the majority correct, you win",
+    "answer": ""
+    // assign answers to each player 
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "While blindfolding, taste four condiments and name each one, No drinking/eating in between condiments to wash down each thing.",
+    "answer": ""
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Guess what season each player was born, if you get the majority correct, you win",
+    "answer": ""
+// assign answers to each player
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Name the movie this quote came from /n /'We are here to fuck shit up/'",
+    "answer": "Step Brothers" 
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Name the movie this quote came from /n /'We are here to fuck shit up/'",
+    "answer": "Step Brothers" 
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Name the movie this quote came from /n /'We are here to fuck shit up/'",
+    "answer": "Step Brothers" 
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "Name the movie this quote came from /n /'We are here to fuck shit up/'",
+    "answer": "Step Brothers"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the Kentucky Tractor Puller?",
+    "answer": "The act of a male and a male or male and a female preforming anal sex. During sex the receiver clenches their butt-cheeks tightly and runs with the penis still in the buttocks." 
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What does the Bus Driver sex act involve?",
+    "answer": "While having sex doggy style, the left thumb is inserted into the recieveer's rectum and turned from side to side essentially driving the bus. The right hand reaches around and squeezes the right breast honking the horn to alert patrons the bus is coming."
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What does the Marlin sex act involve?",
+    "answer": "A sex act in which you get two fingers in the cooch and two in her mouth, then have a friend pop up from behind the dresser and take a picture of you holding her like a big ol' marlin"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What does the Home Invasion sex act involve?",
+    "answer": "The act of masturbating with your off hand after you have been sitting on it. therefore restricting blood-flow to the hand making it numb aka("the stranger"). All while wearing a leather glove."
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the square root of 9?",
+    "answer": "3"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is Usher handing out like coupons?",
+    "answer": "Herpes"
+},
+{
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What really smells like poo?",
+    "answer": "Roses"
+},
+{
+"player": "",
+"time": "",
+"value": 2,
+"veto": false,
+"info": "Guess what age each player lost their virginity. If you get one correct you win"
+// assign to players
+ },
 ]
