@@ -240,8 +240,37 @@
     {
     "player": "",
     "time": "",
-    "value": 0,
+    "value": 3,
     "veto": false,
     "info": "Spin in a circle five times, once complete catch 3 objects lobbed to you by other players."
-    }
+    },
+  {
+  "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "High Knees for 45 seconds."
+  },
+  {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Hold a half pushup for 30 seconds"
+  },
+  {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Strike body builder poses for 90 seconds."
+  },
+  {
+   "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Hold your arms out for 90 seconds without letting them fall."
+  },
+  
     ]
