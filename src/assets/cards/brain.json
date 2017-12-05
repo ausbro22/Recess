@@ -263,4 +263,131 @@
 "info": "Guess what age each player lost their virginity. If you get one correct you win"
 // assign to players
  },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of New York?",
+    "answer": "Albany"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Alabama?",
+    "answer": "Montgomery"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Alaska?",
+    "answer": "Juneau"
+    }, {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Arizona?",
+    "answer": "Phoenix"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Arkansas?",
+    "answer": "Little Rock"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of California?",
+    "answer": "Sacramento"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Colorado?",
+    "answer": "Denver"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Connecticut?",
+    "answer": "Hartford"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Delaware?",
+    "answer": "Dover"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Flordia?",
+    "answer": "Tallahassee"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Georgia?",
+    "answer": "Atlanta"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Hawaii?",
+    "answer": "Honolulu"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Idaho?",
+    "answer": "Boise"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Illinois?",
+    "answer": "Springfield"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Indiana?",
+    "answer": "Indianapolis"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 2,
+    "veto": false,
+    "info": "What is the capital of Iowa?",
+    "answer": "Des Moines"
+    },
 ]
