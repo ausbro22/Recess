@@ -215,7 +215,7 @@
                                     "time": 5,
                                     "value": 5,
                                      "veto": false,
-                                     "info":"Belly dance to the next song that plays. If no music is already going other players get to picki song." 
+                                     "info":"Belly dance to the next song that plays. If no music is already going other players get to pick song." 
                                 },
                                 {
                                     "player": "",
@@ -264,5 +264,84 @@
                             "time": "",
                             "value": 5,
                              "veto": false,
-                             "info":    
-                        }
+                             "info": "Text your latest ex and tell them you love them."   
+                        },
+   {
+    "player": "",
+    "time": "",
+    "value": 5,
+    "veto": false,
+    "info": "Get a 12 second hug from a stranger without saying a word."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Pretend a stranger is a celebrity and get a picture and autograph from them."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Eat a paper napkin."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 5,
+    "veto": false,
+    "info": "Eat a used napkin"
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Give a stranger your socks."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Buy food for a homeless person."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 5,
+    "veto": false,
+    "info": "Eat someone elses body hair."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Write your phone number in a public bathroom."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Let another player give your phone number to a stranger of thier choosing."
+    },
+   {
+    "player": "",
+    "time": "",
+    "value": 3,
+    "veto": false,
+    "info": "Scream for 10 seconds."
+    },
+]
+
+
+
+
+
+
+
+
