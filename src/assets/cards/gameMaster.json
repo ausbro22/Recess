@@ -47,5 +47,11 @@
     "value": 0,
     "veto": false,
     "info": "Put your finger in someone else's ear and don't get caught in the process."
-    }
+    },
+  {
+    "player": "",
+    "time": "",
+    "value": 5,
+    "veto": false,
+    "info": "Give a player a nickname and get it to stick in a round."
 ]
