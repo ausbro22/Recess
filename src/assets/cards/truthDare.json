@@ -265,4 +265,48 @@
                             "value": 5,
                              "veto": false,
                              "info":    
-                        }
+                        },
+                          {
+    "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Pour a full glass of water over on your lap"
+                        },
+  {
+   "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Pour a glass of water over your head."
+  },
+  {
+    "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Draw a portrait of the player to your left."
+  },
+  {
+    "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Tell the world how beautiful the player to right is."
+  },
+  {
+    "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Use any two items as chopsticks to successfully pick up a penny from the floor."
+  },
+  {
+   "player": "",
+    "time": "",
+    "value": 0,
+    "veto": false,
+    "info": "Using only your nose, move a piece of fruit a foot." 
+  },
+  {
+    
